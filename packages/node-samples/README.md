@@ -5,7 +5,7 @@
 单元测试使用的工具是 Jest，按照以下顺序阅读，
 
 1. sum.test.ts
-2. jestMatchers.test.ts
+2. matchers.test.ts
 3. timerGamer.test.ts
 4. asynchronous.test.ts
 5. mock.test.ts
