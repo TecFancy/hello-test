@@ -1,5 +1,5 @@
 {
-  "name": "hello-jest",
+  "name": "hello-test",
   "private": true,
   "scripts": {
     "test:node-samples": "cd packages/node-samples && npm run test"

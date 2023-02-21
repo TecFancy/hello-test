@@ -1,9 +1,9 @@
 {
-  "name": "@hello-jest/node-samples",
+  "name": "@hello-test/node-samples",
   "version": "1.0.0",
   "description": "jest - node samples",
   "author": "smpower <rf.wangchn@foxmail.com>",
-  "homepage": "https://github.com/smpower/hello-jest#readme",
+  "homepage": "https://github.com/smpower/hello-test#readme",
   "license": "MIT",
   "main": "src/index.js",
   "types": "types/index.d.ts",
@@ -18,13 +18,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smpower/hello-jest.git"
+    "url": "git+https://github.com/smpower/hello-test.git"
   },
   "scripts": {
     "test": "jest"
   },
   "bugs": {
-    "url": "https://github.com/smpower/hello-jest/issues"
+    "url": "https://github.com/smpower/hello-test/issues"
   },
   "dependencies": {
     "jest": "^29.4.3",
