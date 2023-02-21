@@ -1,0 +1,26 @@
+{
+  "name": "@hello-jest/jsdom-samples",
+  "version": "1.0.0",
+  "description": "jest - jsdom samples",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/smpower/hello-jest#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smpower/hello-jest.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/index.test.ts"
+  },
+  "bugs": {
+    "url": "https://github.com/smpower/hello-jest/issues"
+  }
+}
