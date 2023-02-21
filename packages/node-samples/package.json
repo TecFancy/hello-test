@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "jest": "^29.4.3",
+    "octokit": "^2.0.14",
     "typescript": "^4.9.5"
   },
   "devDependencies": {
