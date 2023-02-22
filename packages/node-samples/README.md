@@ -7,10 +7,9 @@
 1. sum.test.ts
 2. matchers.test.ts
 3. fetchData.test.ts
-4. getUser.test.ts
+4. mockModules.test.ts
 5. timerGamer.test.ts
-6. mock.test.ts
-7. [快照测试](https://jestjs.io/zh-Hans/docs/snapshot-testing)（这部分比较简单，就不单独写了）
+6. [快照测试](https://jestjs.io/zh-Hans/docs/snapshot-testing)（这部分比较简单，就不单独写了）
 
 更多[文档](https://jestjs.io/zh-Hans/docs/getting-started)。
 
