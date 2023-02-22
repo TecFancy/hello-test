@@ -1,0 +1,38 @@
+{
+  "name": "@hello-test/koa-server",
+  "version": "0.0.0",
+  "description": "hello-test koa server",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/smpower/hello-test#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smpower/hello-test.git"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/smpower/hello-test/issues"
+  },
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "koa": "^2.14.1",
+    "koa-body": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.5",
+    "@types/koa__router": "^12.0.0"
+  }
+}
