@@ -8,6 +8,7 @@ const app = new Koa();
 const router = new Router();
 
 router.post("/users", (ctx) => {
+  console.log('requested from client...')
   const { name } = ctx.request?.body;
   if (!name) {
     ctx.body = { status: 'error', msg: 'Please provide a `name` parameter.' }
